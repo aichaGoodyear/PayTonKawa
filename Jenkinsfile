@@ -8,7 +8,7 @@ pipeline {
     stages{
         stage('Paytonkawa checkout') { 
             steps {
-                git branch:'develop',url:'https://github.com/NdiayeAdama/PayTonKawa.git'
+                git branch:'develop',url:'https://github.com/aicha0401/PayTonKawa-1.git'
                 }
 
         }
